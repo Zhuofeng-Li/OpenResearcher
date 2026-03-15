@@ -1,33 +1,8 @@
 <p align="center">
   <img src="./assets/imgs/or-logo1.png" height="82" style="vertical-align: middle;">
   <img src="./assets/imgs/openresearcher-title.svg" height="66" style="vertical-align: middle;"></p>
-
-<div align="center" style="line-height: 1; margin-top: 16px;">
-
-<div align="center">
-    <a href="https://x.com/DongfuJiang/status/2020946549422031040"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" alt="Blog"></a>
-  <a href="https://boiled-honeycup-4c7.notion.site/OpenResearcher-A-Fully-Open-Pipeline-for-Long-Horizon-Deep-Research-Trajectory-Synthesis-2f7e290627b5800cb3a0cd7e8d6ec0ea?source=copy_link"><img src="https://img.shields.io/badge/Blog-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Blog"></a>
-    <a href="https://github.com/TIGER-AI-Lab/OpenResearcher"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Blog"></a>
-  <a href="https://huggingface.co/datasets/OpenResearcher/OpenResearcher-Dataset"><img src="https://img.shields.io/badge/Dataset-FFB7B2?style=for-the-badge&logo=huggingface&logoColor=ffffff" alt="Dataset"></a>
-  <a href="https://huggingface.co/OpenResearcher/OpenResearcher-30B-A3B"><img src="https://img.shields.io/badge/Model-FFD966?style=for-the-badge&logo=huggingface&logoColor=ffffff" alt="Model"></a>
-    <a href="https://huggingface.co/spaces/OpenResearcher/OpenResearcher"><img src="https://img.shields.io/badge/Demo-F97316.svg?style=for-the-badge&logo=gradio&logoColor=white" alt="Demo"></a>
-  <a href="https://x.com/zhuofengli96475/status/2021682952074097086"><img src="https://img.shields.io/badge/Video-CA4245?style=for-the-badge&logo=youtube&logoColor=white" alt="Video"></a>
-  <a href="https://huggingface.co/datasets/OpenResearcher/OpenResearcher-Eval-Logs/tree/main"><img src="https://img.shields.io/badge/Eval%20Logs-755BB4?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Eval Logs"></a>
-</div>
-
-</div>
-<br>
-<p align="center">
-  🤗 <a href="https://huggingface.co/collections/TIGER-Lab/openresearcher" target="_blank">HuggingFace</a> ｜
-<img src="assets/imgs/notion.svg" width="15px" style="display:inline;"> <a href="https://boiled-honeycup-4c7.notion.site/OpenResearcher-A-Fully-Open-Pipeline-for-Long-Horizon-Deep-Research-Trajectory-Synthesis-2f7e290627b5800cb3a0cd7e8d6ec0ea?source=copy_link" target="_blank">Blog</a> ｜<img src="assets/imgs/slack.png" width="14px" style="display:inline;"> <a href="https://join.slack.com/t/openresearcher/shared_invite/zt-3p0r32cky-PqtZkVjjWIAI14~XwcRMfQ" target="_blank">Slack</a> | <img src="assets/imgs/wechat.svg" width="14px" style="display:inline;"> <a href="assets/imgs/wechat_group.jpg" target="_blank">WeChat</a> 
 </p>
 
-## 📣 News 
-+ **[2026.2.25]** 🔥 Honored to be among the **top 3 trending datasets** on 🤗 [Hugging Face](https://huggingface.co/datasets) — now **11K+** downloads! 🚀
-+ **[2026.2.18]** 🧪 The OpenResearcher training [code](https://github.com/TIGER-AI-Lab/OpenResearcher?tab=readme-ov-file#-optional-train-your-own-openresearcher) is now available. Start training your own OpenResearcher!
-+ **[2026.2.14]** 📸 Excited to have our OpenResearcher demo [video](https://x.com/zhuofengli96475/status/2021682952074097086). Dive in and unlock the power of Deep Research today!
-+ **[2026.2.12]**  🔥 Excited to see **OpenResearcher** powering deep research trajectory generation in [**NVIDIA’s NeMo Data Designer**](https://nvidia-nemo.github.io/DataDesigner/latest/devnotes/deep-research-trajectories-with-nemo-data-designer-and-mcp-tool-use/)!
-+ **[2026.2.10]** 🚀 Our X [post](https://x.com/DongfuJiang/status/2020946549422031040) received **1.2K+ likes**! Feel free to check out the post and join the discussion! 💬
 
 ## 💥 Introduction
 
@@ -260,101 +235,5 @@ Our [OpenResearcher-30B-A3B](https://huggingface.co/OpenResearcher/OpenResearche
 git clone -b openresearcher https://github.com/jdf-prog/Megatron-LM.git
 ```
 Then, follow the training instructions [here](https://github.com/jdf-prog/Megatron-LM/tree/openresearcher/examples/openresearcher) to train your own OpenResearcher!
-
-## 🤝 Core Contributors
-
-<table>
-<tr>
-    <td align="center">
-        <a href="https://zhuofeng-li.github.io/">
-            <img src="https://github.com/Zhuofeng-Li.png" width="75px;" alt="Zhuofeng Li"/>
-            <br />
-            <sub><b>Zhuofeng Li</b></sub>
-        </a>
-    </td>
-        <td align="center">
-        <a href="https://github.com/jdf-prog">
-            <img src="https://github.com/jdf-prog.png" width="75px;" alt="Dongfu Jiang"/>
-            <br />
-            <sub><b>Dongfu Jiang</b></sub>
-        </a>
-    </td>
-    </td>
-        <td align="center">
-        <a href="https://mxueguang.github.io/">
-            <img src="https://mxueguang.github.io/images/profile.jpg" width="75px;" alt="Xueguang"/>
-            <br />
-            <sub><b>Xueguang Ma</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://isaacghx.github.io/about/">
-            <img src="https://github.com/IsaacGHX.png" width="75px;" alt="Haoxiang Zhang"/>
-            <br />
-            <sub><b>Haoxiang Zhang</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/erenup">
-            <img src="https://github.com/erenup.png" width="75px;" alt="Ping Nie"/>
-            <br />
-            <sub><b>Ping Nie</b></sub>
-        </a>
-    </td>
-</tr>
-</table>
-
-## 🎓 Advisors
-
-<table>
-<tr>
-      <td align="center">
-        <a href="https://github.com/wenhuchen">
-            <img src="https://github.com/wenhuchen.png" width="75px;" alt="Wenhu Chen"/>
-            <br />
-            <sub><b>Wenhu Chen</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://yuzhimanhua.github.io/">
-            <img src="https://yuzhimanhua.github.io/profile_pic.jpg" width="75px;" alt="Yu Zhang"/>
-            <br />
-            <sub><b>Yu Zhang</b></sub>
-        </a>
-    </td>
-</tr>
-</table>
-
-## 🙏 Acknowledgements
-<div align="center">
-  <img src="assets/imgs/ack.png" alt="Deep Research Benchmark Results" width="100%">
-</div>
-
-
-## ✨ Contributing
-We are truly looking forward to open-source contributions to OpenResearcher! If you’re interested in contributing, collaborating, or reporting issues, please feel free to open an issue or submit a pull request (PR). You can also reach us at [zhuofengli12345@gmail.com](mailto:zhuofengli12345@gmail.com).
-
-We are also looking forward to your feedback and suggestions!
-
-##  📚 Citation
-
-```bibtex
-@misc{li2025openresearcher,
-  title={OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis},
-  author={Zhuofeng Li and Dongfu Jiang and Xueguang Ma and Haoxiang Zhang and Ping Nie and Yuyu Zhang and Kai Zou and Jianwen Xie and Yu Zhang and Wenhu Chen},
-  year={2025},
-  howpublished={\url{https://www.notion.so/OpenResearcher-A-Fully-Open-Pipeline-for-Long-Horizon-Deep-Research-Trajectory-Synthesis-2f7e290627b5800cb3a0cd7e8d6ec0ea}},
-  note={Notion Blog}
-}
-```
-
-## ⭐ Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=TIGER-AI-Lab/OpenResearcher&type=date&legend=top-left)](https://www.star-history.com/#TIGER-AI-Lab/OpenResearcher&type=date&legend=top-left)
-
-<p align="right" style="font-size: 14px; margin-top: 20px;">
-  <a href="#readme-top" style="text-decoration: none; font-weight: bold;">
-    ↑ Back to Top ↑
-  </a>
-</p>
 
 
